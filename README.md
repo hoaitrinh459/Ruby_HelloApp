@@ -23,7 +23,3 @@ Things you may want to cover:
 
 * ...
 # Ruby_HelloApp
-# Ruby_HelloApp
-# Ruby_HelloApp
-# Ruby_HelloApp
-# Ruby_HelloApp
